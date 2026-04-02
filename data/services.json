@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "title": "Mobile Tire Shop",
+    "slug": "mobile-tire-shop",
+    "category": "tires-wheels",
+    "shortDescription": "On-demand luxury tire changing, puncture diagnostics, and premium branded tire replacements brought directly to you.",
+    "description": "Don't let a flat slow you down. Our mobile vans offer complete wheel diagnostics, nitrogen inflation, and premium branded replacements anywhere you need.",
+    "icon": "Circle",
+    "isActive": true,
+    "duration": "1 Hour",
+    "price": "From $99",
+    "image": "/assets/asset 13.jpeg",
+    "detailedDescription": [
+      "Whether you are stuck on the highway or sitting safely in your driveway, our Mobile Tire Shop van arrives fully equipped. We utilize cordless impact wrenches, modern tire mounting machines, and electronic balancers right inside our van.",
+      "We stock premium tires from leading brands (Michelin, Pirelli, Continental) and offer bespoke wheel rim repair on the spot. Save time and experience ultimate luxury convenience without setting foot in a traditional shop."
+    ],
+    "features": [
+      "On-Site Tire Changing",
+      "Computerized Wheel Balancing",
+      "Puncture Diagnostics & Patching",
+      "Nitrogen Inflation System",
+      "TPMS Reset & Programming",
+      "Emergency Roadside Deployment"
+    ],
+    "benefits": [
+      { "icon": "Clock", "title": "Rapid Deployment", "desc": "Average arrival time under 45 minutes within city limits." },
+      { "icon": "ShieldCheck", "title": "Premium Care", "desc": "We use touchless mounting to ensure your luxury rims are never scratched." },
+      { "icon": "Banknote", "title": "Transparent Pricing", "desc": "No hidden towing fees. You only pay for the service and the parts." },
+      { "icon": "Award", "title": "Certified Technicians", "desc": "Our team consists of ASE-certified experts specializing in high-performance tires." }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Premium Wheel Fix",
+    "slug": "premium-wheel-fix",
+    "category": "tires-wheels",
+    "shortDescription": "Computerized laser alignment, rim straightening, and luxury wheel refurbishing.",
+    "description": "Laser-guided chassis realignment fixing steering pulls and uneven tire wear patterns. We fix luxury rims, straighten bent wheels, and restore factory finishes.",
+    "icon": "Disc",
+    "isActive": true,
+    "duration": "1-3 Hours",
+    "price": "From $150",
+    "image": "/assets/asset 38.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Luxury Car Repair",
+    "slug": "car-repair",
+    "category": "engine-mechanical",
+    "shortDescription": "Comprehensive diagnostics, component replacement, and high-performance tuning for luxury vehicles.",
+    "description": "Our certified technicians perform deep analysis utilizing automated diagnostic tooling. We handle structural vehicle damage using computerized frame straightening and luxury components.",
+    "icon": "Wrench",
+    "isActive": true,
+    "duration": "Varies",
+    "price": "Estimate Only",
+    "image": "/assets/asset 64.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "On-Demand Car Maintenance",
+    "slug": "car-maintenance",
+    "category": "engine-mechanical",
+    "shortDescription": "Complete preventative maintenance including fluids, battery swaps, and system checks performed at your location.",
+    "description": "Routine upkeep is crucial. We offer systematic multimeter checks, oil changes, and fluid top-offs to prevent getting stranded proactively.",
+    "icon": "Settings2",
+    "isActive": true,
+    "duration": "1 Hour",
+    "price": "From $129",
+    "image": "/assets/asset 15.jpeg"
+  },
+  {
+    "id": "5",
+    "title": "Tire Disc Blade Changing",
+    "slug": "disc-blade",
+    "category": "tires-wheels",
+    "shortDescription": "Ceramic and metallic brake pad swaps alongside warped rotor resurfacing protocols.",
+    "description": "A vehicle that can't stop is a danger to everyone. We replace worn pads and bleed hydraulic brake fluids to ensure maximum stopping power.",
+    "icon": "Disc",
+    "isActive": false,
+    "duration": "2 Hours",
+    "price": "From $120",
+    "image": "/assets/asset 66.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Hydro Dripping",
+    "slug": "hydro-dripping",
+    "category": "detailing-coating",
+    "shortDescription": "Water transfer printing for custom dashboard designs, rims, and engine bay styling covers.",
+    "description": "Apply intricate carbon fiber, camo, or custom graphics onto 3D dimensional parts via specialized hydro-dip chemical processes.",
+    "icon": "Droplets",
+    "isActive": true,
+    "duration": "2-3 Days",
+    "price": "From $199",
+    "image": "/assets/asset 16.jpeg"
+  },
+  {
+    "id": "7",
+    "title": "Ceramic Coating",
+    "slug": "ceramic-coating",
+    "category": "detailing-coating",
+    "shortDescription": "9H nanotechnology liquid polymer applied to exterior mapping repelling water, dust, and UV radiation.",
+    "description": "Protect your factory paint with aerospace-grade ceramic formulas forming a sacrificial layer of hydrophobic glass over your vehicle.",
+    "icon": "Layers",
+    "isActive": true,
+    "duration": "24 Hours",
+    "price": "From $450",
+    "image": "/assets/asset 40.jpeg"
+  },
+  {
+    "id": "8",
+    "title": "Alignment Fixing",
+    "slug": "alignment-fixing",
+    "category": "engine-mechanical",
+    "shortDescription": "Camber, caster, and toe adjustments optimizing driving performance and tire lifespan.",
+    "description": "Laser-guided chassis realignment fixing steering pulls and uneven tire wear patterns saving you money in the long run.",
+    "icon": "AlignCenter",
+    "isActive": false,
+    "duration": "1.5 Hours",
+    "price": "From $95",
+    "image": "/assets/asset 38.jpeg"
+  },
+  {
+    "id": "9",
+    "title": "Car Repairing",
+    "slug": "car-repairing",
+    "category": "body-denting",
+    "shortDescription": "Comprehensive chassis welding, quarter panel swaps, and major collision frame pulling.",
+    "description": "Our heavy-duty repair bay handles structural vehicle damage using computerized frame straightening equipment.",
+    "icon": "Wrench",
+    "isActive": true,
+    "duration": "Varies",
+    "price": "Estimate Only",
+    "image": "/assets/asset 64.jpeg"
+  },
+  {
+    "id": "10",
+    "title": "Windshield Replacement",
+    "slug": "windshield-replacement",
+    "category": "glass-windshield",
+    "shortDescription": "OEM-equivalent shattered glass replacements featuring heated wiper elements and ADAS recalibrations.",
+    "description": "Safety starts with visibility. We remove cracked windshields and seal new ones using premium urethanes ready to drive in 1 hour.",
+    "icon": "Aperture",
+    "isActive": false,
+    "duration": "2 Hours",
+    "price": "From $250",
+    "image": "/assets/asset 43.jpeg"
+  },
+  {
+    "id": "11",
+    "title": "Deep Interior Shampoo",
+    "slug": "interior-shampoo",
+    "category": "detailing-coating",
+    "shortDescription": "Steam cleaning, extraction vacuuming, and leather upholstery conditioning.",
+    "description": "Eradicate odors, spills, and allergens from carpet fibers while restoring leather dashboard suppleness via pH-balanced moisturizers.",
+    "icon": "Sparkles",
+    "isActive": true,
+    "duration": "3-4 Hours",
+    "price": "From $129",
+    "image": "/assets/asset 47.jpeg"
+  },
+  {
+    "id": "12",
+    "title": "Car Engine Repair",
+    "slug": "engine-repair",
+    "category": "engine-mechanical",
+    "shortDescription": "Expert engine diagnostics, timing belt replacements, and complete engine overhauls for luxury vehicles.",
+    "description": "We specialize in precision engine repair covering everything from minor sensor faults to major mechanical rebuilds to keep your vehicle running smoothly.",
+    "icon": "Wrench",
+    "isActive": true,
+    "duration": "1-3 Days",
+    "price": "From $299",
+    "image": "/assets/asset 64.jpeg",
+    "detailedDescription": [
+      "Your car's engine is a complex machine consisting of hundreds of moving parts operating at high temperatures. Our expert mechanics provide deep computer diagnostics and careful manual inspections to pinpoint internal issues.",
+      "From fixing oil leaks and replacing blown head gaskets to conducting full block tuning and preventative maintenance, our specialized engine repair guarantees longevity and maximum horsepower."
+    ],
+    "features": [
+      "Comprehensive Computer Diagnostics",
+      "Timing Belt & Chain Replacement",
+      "Cylinder Head & Gasket Repair",
+      "Fuel Injector Servicing",
+      "Ignition System Tuning",
+      "Engine Block Rebuilding"
+    ],
+    "benefits": [
+      { "icon": "Wrench", "title": "Precision Tooling", "desc": "We use manufacturer-approved torque wrenches and lasers for flawless assembly." },
+      { "icon": "ShieldCheck", "title": "Guaranteed Reliability", "desc": "Every repaired engine undergoes comprehensive dynamometer testing." },
+      { "icon": "Cpu", "title": "Advanced Diagnostics", "desc": "Our diagnostic computers read deep into proprietary factory codes." },
+      { "icon": "Zap", "title": "Performance Tuning", "desc": "Optional ECU remapping to restore lost factory horsepower." }
+    ]
+  }
+]
