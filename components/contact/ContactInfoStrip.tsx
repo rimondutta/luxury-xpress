@@ -17,12 +17,11 @@ function InfoBox({ icon, label, value, sub, href, delay = 0, showDivider = false
   const { ref, isVisible } = useScrollAnimation({ threshold: 0.1 });
 
   return (
-    <div 
+    <div
       ref={ref}
       style={{ transitionDelay: `${delay}ms` }}
-      className={`flex-1 py-10 px-8 flex items-center gap-6 border-[#2e2e2e] transition-all duration-700 ${
-        showDivider ? "md:border-r" : ""
-      } ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
+      className={`flex-1 py-10 px-8 flex items-center gap-6 border-[#2e2e2e] transition-all duration-700 ${showDivider ? "md:border-r" : ""
+        } ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
     >
       <div className="text-[#D3AF37] w-12 h-12 flex items-center justify-center flex-shrink-0">
         {icon}
@@ -53,8 +52,8 @@ export default function ContactInfoStrip() {
     <section className="w-full bg-[#0E0E0E] border-y border-[#2e2e2e]">
       <div className="container mx-auto">
         <div className="flex flex-col md:flex-row">
-          
-          <InfoBox 
+
+          <InfoBox
             icon={<Phone className="w-8 h-8" />}
             label="CALL US ANYTIME"
             value="+17869881966"
@@ -64,17 +63,17 @@ export default function ContactInfoStrip() {
             showDivider={true}
           />
 
-          <InfoBox 
+          <InfoBox
             icon={<Mail className="w-8 h-8" />}
             label="SEND US AN EMAIL"
-            value="info@autofixpro.com"
+            value="info@luxuryxpress.com"
             sub="We reply within 24 hours"
-            href="mailto:info@autofixpro.com"
+            href="mailto:info@luxuryxpress.com"
             delay={100}
             showDivider={true}
           />
 
-          <InfoBox 
+          <InfoBox
             icon={<MapPin className="w-8 h-8" />}
             label="VISIT OUR LOCATION"
             value="3205 NW 5th Ave, Miami, FL 33127, United States"
